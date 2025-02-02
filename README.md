@@ -1,2 +1,2 @@
 # codespace-the-start
-Just a basic overview of codespace
+The complete JavaScript using the codespace  
